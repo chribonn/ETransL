@@ -1,0 +1,1853 @@
+2022-03-11 14:03:10 : Log file (logFile) created : D:\ETransL\titanic.log
+2022-03-11 14:03:10 : Log file append mode : N
+2022-03-11 14:03:10 : Parameter Transaction WorkBookName (wbTransName) : titanic_dataset.xlsx
+2022-03-11 14:03:10 : Parameter Transaction SheetName (shtTransName) : dataset
+2022-03-11 14:03:10**** WARNING **** : WB: <<titanic_dataset.xlsx>> doesn't exist. Trying application directory.
+2022-03-11 14:03:11 : Parameter Template WorkBookName (wbTemplateName) : Template.xlsx
+2022-03-11 14:03:11 : Parameter Template SheetName (shtTemplateName) : Tmplt
+2022-03-11 14:03:11**** WARNING **** : WB: <<Template.xlsx>> doesn't exist. Trying application directory.
+2022-03-11 14:03:11 : Parameter Start processing Transactions @ row (strtRowTrans) : 17
+2022-03-11 14:03:11 : Parameter Start processing Transactions @ row (endRowTrans) : 907
+2022-03-11 14:03:11 : Parameter Start processing Template @ row (strtRowTemplate) : 1
+2022-03-11 14:03:11 : Reading Template File
+2022-03-11 14:03:11**** WARNING **** : NoBrackets has undefined Padding. Assuming R
+2022-03-11 14:03:11**** WARNING **** : MaleOrSingleFemale has undefined Padding. Assuming R
+2022-03-11 14:03:11**** WARNING **** : StartNamePos has undefined Padding. Assuming R
+2022-03-11 14:03:11**** WARNING **** : LenName has undefined Padding. Assuming R
+2022-03-11 14:03:12 : Output file (resultFile) created : D:\ETransL\titanic-dataset.txt
+ 
+2022-03-11 14:03:12 : Processing row : 17
+ 
+2022-03-11 14:03:12 : Processing row : 18
+ 
+2022-03-11 14:03:12 : Processing row : 19
+ 
+2022-03-11 14:03:12 : Processing row : 20
+ 
+2022-03-11 14:03:12 : Processing row : 21
+ 
+2022-03-11 14:03:12 : Processing row : 22
+ 
+2022-03-11 14:03:12 : Processing row : 23
+ 
+2022-03-11 14:03:12 : Processing row : 24
+ 
+2022-03-11 14:03:12 : Processing row : 25
+ 
+2022-03-11 14:03:12 : Processing row : 26
+ 
+2022-03-11 14:03:12 : Processing row : 27
+ 
+2022-03-11 14:03:12 : Processing row : 28
+ 
+2022-03-11 14:03:12 : Processing row : 29
+ 
+2022-03-11 14:03:12 : Processing row : 30
+ 
+2022-03-11 14:03:12 : Processing row : 31
+ 
+2022-03-11 14:03:12 : Processing row : 32
+ 
+2022-03-11 14:03:12 : Processing row : 33
+ 
+2022-03-11 14:03:12 : Processing row : 34
+ 
+2022-03-11 14:03:12 : Processing row : 35
+ 
+2022-03-11 14:03:12 : Processing row : 36
+ 
+2022-03-11 14:03:12 : Processing row : 37
+ 
+2022-03-11 14:03:12 : Processing row : 38
+ 
+2022-03-11 14:03:12 : Processing row : 39
+ 
+2022-03-11 14:03:12 : Processing row : 40
+ 
+2022-03-11 14:03:12 : Processing row : 41
+ 
+2022-03-11 14:03:12 : Processing row : 42
+ 
+2022-03-11 14:03:12 : Processing row : 43
+ 
+2022-03-11 14:03:12 : Processing row : 44
+ 
+2022-03-11 14:03:12 : Processing row : 45
+ 
+2022-03-11 14:03:12 : Processing row : 46
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D46
+ 
+2022-03-11 14:03:12 : Processing row : 47
+ 
+2022-03-11 14:03:12 : Processing row : 48
+ 
+2022-03-11 14:03:12 : Processing row : 49
+ 
+2022-03-11 14:03:12 : Processing row : 50
+ 
+2022-03-11 14:03:12 : Processing row : 51
+ 
+2022-03-11 14:03:12 : Processing row : 52
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D52
+ 
+2022-03-11 14:03:12 : Processing row : 53
+ 
+2022-03-11 14:03:12 : Processing row : 54
+ 
+2022-03-11 14:03:12 : Processing row : 55
+ 
+2022-03-11 14:03:12 : Processing row : 56
+ 
+2022-03-11 14:03:12 : Processing row : 57
+ 
+2022-03-11 14:03:12 : Processing row : 58
+ 
+2022-03-11 14:03:12 : Processing row : 59
+ 
+2022-03-11 14:03:12 : Processing row : 60
+ 
+2022-03-11 14:03:12 : Processing row : 61
+ 
+2022-03-11 14:03:12 : Processing row : 62
+ 
+2022-03-11 14:03:12 : Processing row : 63
+ 
+2022-03-11 14:03:12 : Processing row : 64
+ 
+2022-03-11 14:03:12 : Processing row : 65
+ 
+2022-03-11 14:03:12 : Processing row : 66
+ 
+2022-03-11 14:03:12 : Processing row : 67
+ 
+2022-03-11 14:03:12 : Processing row : 68
+ 
+2022-03-11 14:03:12 : Processing row : 69
+ 
+2022-03-11 14:03:12 : Processing row : 70
+ 
+2022-03-11 14:03:12 : Processing row : 71
+ 
+2022-03-11 14:03:12 : Processing row : 72
+ 
+2022-03-11 14:03:12 : Processing row : 73
+ 
+2022-03-11 14:03:12 : Processing row : 74
+ 
+2022-03-11 14:03:12 : Processing row : 75
+ 
+2022-03-11 14:03:12 : Processing row : 76
+ 
+2022-03-11 14:03:12 : Processing row : 77
+ 
+2022-03-11 14:03:12 : Processing row : 78
+ 
+2022-03-11 14:03:12 : Processing row : 79
+ 
+2022-03-11 14:03:12 : Processing row : 80
+ 
+2022-03-11 14:03:12 : Processing row : 81
+ 
+2022-03-11 14:03:12 : Processing row : 82
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D82
+ 
+2022-03-11 14:03:12 : Processing row : 83
+ 
+2022-03-11 14:03:12 : Processing row : 84
+ 
+2022-03-11 14:03:12 : Processing row : 85
+ 
+2022-03-11 14:03:12 : Processing row : 86
+ 
+2022-03-11 14:03:12 : Processing row : 87
+ 
+2022-03-11 14:03:12 : Processing row : 88
+ 
+2022-03-11 14:03:12 : Processing row : 89
+ 
+2022-03-11 14:03:12 : Processing row : 90
+ 
+2022-03-11 14:03:12 : Processing row : 91
+ 
+2022-03-11 14:03:12 : Processing row : 92
+ 
+2022-03-11 14:03:12 : Processing row : 93
+ 
+2022-03-11 14:03:12 : Processing row : 94
+ 
+2022-03-11 14:03:12 : Processing row : 95
+ 
+2022-03-11 14:03:12 : Processing row : 96
+ 
+2022-03-11 14:03:12 : Processing row : 97
+ 
+2022-03-11 14:03:12 : Processing row : 98
+ 
+2022-03-11 14:03:12 : Processing row : 99
+ 
+2022-03-11 14:03:12 : Processing row : 100
+ 
+2022-03-11 14:03:12 : Processing row : 101
+ 
+2022-03-11 14:03:12 : Processing row : 102
+ 
+2022-03-11 14:03:12 : Processing row : 103
+ 
+2022-03-11 14:03:12 : Processing row : 104
+ 
+2022-03-11 14:03:12 : Processing row : 105
+ 
+2022-03-11 14:03:12 : Processing row : 106
+ 
+2022-03-11 14:03:12 : Processing row : 107
+ 
+2022-03-11 14:03:12 : Processing row : 108
+ 
+2022-03-11 14:03:12 : Processing row : 109
+ 
+2022-03-11 14:03:12 : Processing row : 110
+ 
+2022-03-11 14:03:12 : Processing row : 111
+ 
+2022-03-11 14:03:12 : Processing row : 112
+ 
+2022-03-11 14:03:12 : Processing row : 113
+ 
+2022-03-11 14:03:12 : Processing row : 114
+ 
+2022-03-11 14:03:12 : Processing row : 115
+ 
+2022-03-11 14:03:12 : Processing row : 116
+ 
+2022-03-11 14:03:12 : Processing row : 117
+ 
+2022-03-11 14:03:12 : Processing row : 118
+ 
+2022-03-11 14:03:12 : Processing row : 119
+ 
+2022-03-11 14:03:12 : Processing row : 120
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D120
+ 
+2022-03-11 14:03:12 : Processing row : 121
+ 
+2022-03-11 14:03:12 : Processing row : 122
+ 
+2022-03-11 14:03:12 : Processing row : 123
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D123
+ 
+2022-03-11 14:03:12 : Processing row : 124
+ 
+2022-03-11 14:03:12 : Processing row : 125
+ 
+2022-03-11 14:03:12 : Processing row : 126
+ 
+2022-03-11 14:03:12 : Processing row : 127
+ 
+2022-03-11 14:03:12 : Processing row : 128
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D128
+ 
+2022-03-11 14:03:12 : Processing row : 129
+ 
+2022-03-11 14:03:12 : Processing row : 130
+ 
+2022-03-11 14:03:12 : Processing row : 131
+ 
+2022-03-11 14:03:12 : Processing row : 132
+ 
+2022-03-11 14:03:12 : Processing row : 133
+ 
+2022-03-11 14:03:12 : Processing row : 134
+ 
+2022-03-11 14:03:12 : Processing row : 135
+ 
+2022-03-11 14:03:12 : Processing row : 136
+ 
+2022-03-11 14:03:12 : Processing row : 137
+ 
+2022-03-11 14:03:12 : Processing row : 138
+ 
+2022-03-11 14:03:12 : Processing row : 139
+ 
+2022-03-11 14:03:12 : Processing row : 140
+ 
+2022-03-11 14:03:12 : Processing row : 141
+ 
+2022-03-11 14:03:12 : Processing row : 142
+ 
+2022-03-11 14:03:12 : Processing row : 143
+ 
+2022-03-11 14:03:12 : Processing row : 144
+ 
+2022-03-11 14:03:12 : Processing row : 145
+ 
+2022-03-11 14:03:12 : Processing row : 146
+ 
+2022-03-11 14:03:12 : Processing row : 147
+ 
+2022-03-11 14:03:12 : Processing row : 148
+ 
+2022-03-11 14:03:12 : Processing row : 149
+ 
+2022-03-11 14:03:12 : Processing row : 150
+ 
+2022-03-11 14:03:12 : Processing row : 151
+ 
+2022-03-11 14:03:12 : Processing row : 152
+ 
+2022-03-11 14:03:12 : Processing row : 153
+ 
+2022-03-11 14:03:12 : Processing row : 154
+ 
+2022-03-11 14:03:12 : Processing row : 155
+ 
+2022-03-11 14:03:12 : Processing row : 156
+ 
+2022-03-11 14:03:12 : Processing row : 157
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D157
+ 
+2022-03-11 14:03:12 : Processing row : 158
+ 
+2022-03-11 14:03:12 : Processing row : 159
+ 
+2022-03-11 14:03:12 : Processing row : 160
+ 
+2022-03-11 14:03:12 : Processing row : 161
+ 
+2022-03-11 14:03:12 : Processing row : 162
+ 
+2022-03-11 14:03:12 : Processing row : 163
+ 
+2022-03-11 14:03:12 : Processing row : 164
+ 
+2022-03-11 14:03:12 : Processing row : 165
+ 
+2022-03-11 14:03:12 : Processing row : 166
+ 
+2022-03-11 14:03:12 : Processing row : 167
+ 
+2022-03-11 14:03:12 : Processing row : 168
+ 
+2022-03-11 14:03:12 : Processing row : 169
+ 
+2022-03-11 14:03:12 : Processing row : 170
+ 
+2022-03-11 14:03:12 : Processing row : 171
+ 
+2022-03-11 14:03:12 : Processing row : 172
+ 
+2022-03-11 14:03:12 : Processing row : 173
+ 
+2022-03-11 14:03:12 : Processing row : 174
+ 
+2022-03-11 14:03:12 : Processing row : 175
+ 
+2022-03-11 14:03:12 : Processing row : 176
+ 
+2022-03-11 14:03:12 : Processing row : 177
+ 
+2022-03-11 14:03:12 : Processing row : 178
+ 
+2022-03-11 14:03:12 : Processing row : 179
+ 
+2022-03-11 14:03:12 : Processing row : 180
+ 
+2022-03-11 14:03:12 : Processing row : 181
+ 
+2022-03-11 14:03:12 : Processing row : 182
+ 
+2022-03-11 14:03:12 : Processing row : 183
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D183
+ 
+2022-03-11 14:03:12 : Processing row : 184
+ 
+2022-03-11 14:03:12 : Processing row : 185
+ 
+2022-03-11 14:03:12 : Processing row : 186
+ 
+2022-03-11 14:03:12 : Processing row : 187
+ 
+2022-03-11 14:03:12 : Processing row : 188
+ 
+2022-03-11 14:03:12 : Processing row : 189
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D189
+ 
+2022-03-11 14:03:12 : Processing row : 190
+ 
+2022-03-11 14:03:12 : Processing row : 191
+ 
+2022-03-11 14:03:12 : Processing row : 192
+ 
+2022-03-11 14:03:12 : Processing row : 193
+ 
+2022-03-11 14:03:12 : Processing row : 194
+ 
+2022-03-11 14:03:12 : Processing row : 195
+ 
+2022-03-11 14:03:12 : Processing row : 196
+ 
+2022-03-11 14:03:12 : Processing row : 197
+ 
+2022-03-11 14:03:12 : Processing row : 198
+ 
+2022-03-11 14:03:12 : Processing row : 199
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D199
+ 
+2022-03-11 14:03:12 : Processing row : 200
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D200
+ 
+2022-03-11 14:03:12 : Processing row : 201
+ 
+2022-03-11 14:03:12 : Processing row : 202
+ 
+2022-03-11 14:03:12 : Processing row : 203
+ 
+2022-03-11 14:03:12 : Processing row : 204
+ 
+2022-03-11 14:03:12 : Processing row : 205
+ 
+2022-03-11 14:03:12 : Processing row : 206
+ 
+2022-03-11 14:03:12 : Processing row : 207
+ 
+2022-03-11 14:03:12 : Processing row : 208
+ 
+2022-03-11 14:03:12 : Processing row : 209
+ 
+2022-03-11 14:03:12 : Processing row : 210
+ 
+2022-03-11 14:03:12 : Processing row : 211
+ 
+2022-03-11 14:03:12 : Processing row : 212
+ 
+2022-03-11 14:03:12 : Processing row : 213
+ 
+2022-03-11 14:03:12 : Processing row : 214
+ 
+2022-03-11 14:03:12 : Processing row : 215
+ 
+2022-03-11 14:03:12 : Processing row : 216
+ 
+2022-03-11 14:03:12 : Processing row : 217
+ 
+2022-03-11 14:03:12 : Processing row : 218
+ 
+2022-03-11 14:03:12 : Processing row : 219
+ 
+2022-03-11 14:03:12 : Processing row : 220
+ 
+2022-03-11 14:03:12 : Processing row : 221
+ 
+2022-03-11 14:03:12 : Processing row : 222
+ 
+2022-03-11 14:03:12 : Processing row : 223
+ 
+2022-03-11 14:03:12 : Processing row : 224
+ 
+2022-03-11 14:03:12 : Processing row : 225
+ 
+2022-03-11 14:03:12 : Processing row : 226
+ 
+2022-03-11 14:03:12 : Processing row : 227
+ 
+2022-03-11 14:03:12 : Processing row : 228
+ 
+2022-03-11 14:03:12 : Processing row : 229
+ 
+2022-03-11 14:03:12 : Processing row : 230
+ 
+2022-03-11 14:03:12 : Processing row : 231
+ 
+2022-03-11 14:03:12 : Processing row : 232
+ 
+2022-03-11 14:03:12 : Processing row : 233
+ 
+2022-03-11 14:03:12 : Processing row : 234
+ 
+2022-03-11 14:03:12 : Processing row : 235
+ 
+2022-03-11 14:03:12 : Processing row : 236
+ 
+2022-03-11 14:03:12 : Processing row : 237
+ 
+2022-03-11 14:03:12 : Processing row : 238
+ 
+2022-03-11 14:03:12 : Processing row : 239
+ 
+2022-03-11 14:03:12 : Processing row : 240
+ 
+2022-03-11 14:03:12 : Processing row : 241
+ 
+2022-03-11 14:03:12 : Processing row : 242
+ 
+2022-03-11 14:03:12 : Processing row : 243
+ 
+2022-03-11 14:03:12 : Processing row : 244
+ 
+2022-03-11 14:03:12 : Processing row : 245
+ 
+2022-03-11 14:03:12 : Processing row : 246
+ 
+2022-03-11 14:03:12 : Processing row : 247
+ 
+2022-03-11 14:03:12 : Processing row : 248
+ 
+2022-03-11 14:03:12 : Processing row : 249
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D249
+ 
+2022-03-11 14:03:12 : Processing row : 250
+2022-03-11 14:03:12**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D250
+ 
+2022-03-11 14:03:12 : Processing row : 251
+ 
+2022-03-11 14:03:12 : Processing row : 252
+ 
+2022-03-11 14:03:13 : Processing row : 253
+ 
+2022-03-11 14:03:13 : Processing row : 254
+ 
+2022-03-11 14:03:13 : Processing row : 255
+ 
+2022-03-11 14:03:13 : Processing row : 256
+ 
+2022-03-11 14:03:13 : Processing row : 257
+ 
+2022-03-11 14:03:13 : Processing row : 258
+ 
+2022-03-11 14:03:13 : Processing row : 259
+ 
+2022-03-11 14:03:13 : Processing row : 260
+ 
+2022-03-11 14:03:13 : Processing row : 261
+ 
+2022-03-11 14:03:13 : Processing row : 262
+ 
+2022-03-11 14:03:13 : Processing row : 263
+ 
+2022-03-11 14:03:13 : Processing row : 264
+ 
+2022-03-11 14:03:13 : Processing row : 265
+ 
+2022-03-11 14:03:13 : Processing row : 266
+ 
+2022-03-11 14:03:13 : Processing row : 267
+ 
+2022-03-11 14:03:13 : Processing row : 268
+ 
+2022-03-11 14:03:13 : Processing row : 269
+ 
+2022-03-11 14:03:13 : Processing row : 270
+ 
+2022-03-11 14:03:13 : Processing row : 271
+ 
+2022-03-11 14:03:13 : Processing row : 272
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D272
+ 
+2022-03-11 14:03:13 : Processing row : 273
+ 
+2022-03-11 14:03:13 : Processing row : 274
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D274
+ 
+2022-03-11 14:03:13 : Processing row : 275
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D275
+ 
+2022-03-11 14:03:13 : Processing row : 276
+ 
+2022-03-11 14:03:13 : Processing row : 277
+ 
+2022-03-11 14:03:13 : Processing row : 278
+ 
+2022-03-11 14:03:13 : Processing row : 279
+ 
+2022-03-11 14:03:13 : Processing row : 280
+ 
+2022-03-11 14:03:13 : Processing row : 281
+ 
+2022-03-11 14:03:13 : Processing row : 282
+ 
+2022-03-11 14:03:13 : Processing row : 283
+ 
+2022-03-11 14:03:13 : Processing row : 284
+ 
+2022-03-11 14:03:13 : Processing row : 285
+ 
+2022-03-11 14:03:13 : Processing row : 286
+ 
+2022-03-11 14:03:13 : Processing row : 287
+ 
+2022-03-11 14:03:13 : Processing row : 288
+ 
+2022-03-11 14:03:13 : Processing row : 289
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D289
+ 
+2022-03-11 14:03:13 : Processing row : 290
+ 
+2022-03-11 14:03:13 : Processing row : 291
+ 
+2022-03-11 14:03:13 : Processing row : 292
+ 
+2022-03-11 14:03:13 : Processing row : 293
+ 
+2022-03-11 14:03:13 : Processing row : 294
+ 
+2022-03-11 14:03:13 : Processing row : 295
+ 
+2022-03-11 14:03:13 : Processing row : 296
+ 
+2022-03-11 14:03:13 : Processing row : 297
+ 
+2022-03-11 14:03:13 : Processing row : 298
+ 
+2022-03-11 14:03:13 : Processing row : 299
+ 
+2022-03-11 14:03:13 : Processing row : 300
+ 
+2022-03-11 14:03:13 : Processing row : 301
+ 
+2022-03-11 14:03:13 : Processing row : 302
+ 
+2022-03-11 14:03:13 : Processing row : 303
+ 
+2022-03-11 14:03:13 : Processing row : 304
+ 
+2022-03-11 14:03:13 : Processing row : 305
+ 
+2022-03-11 14:03:13 : Processing row : 306
+ 
+2022-03-11 14:03:13 : Processing row : 307
+ 
+2022-03-11 14:03:13 : Processing row : 308
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D308
+ 
+2022-03-11 14:03:13 : Processing row : 309
+ 
+2022-03-11 14:03:13 : Processing row : 310
+ 
+2022-03-11 14:03:13 : Processing row : 311
+ 
+2022-03-11 14:03:13 : Processing row : 312
+ 
+2022-03-11 14:03:13 : Processing row : 313
+ 
+2022-03-11 14:03:13 : Processing row : 314
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D314
+ 
+2022-03-11 14:03:13 : Processing row : 315
+ 
+2022-03-11 14:03:13 : Processing row : 316
+ 
+2022-03-11 14:03:13 : Processing row : 317
+ 
+2022-03-11 14:03:13 : Processing row : 318
+ 
+2022-03-11 14:03:13 : Processing row : 319
+ 
+2022-03-11 14:03:13 : Processing row : 320
+ 
+2022-03-11 14:03:13 : Processing row : 321
+ 
+2022-03-11 14:03:13 : Processing row : 322
+ 
+2022-03-11 14:03:13 : Processing row : 323
+ 
+2022-03-11 14:03:13 : Processing row : 324
+ 
+2022-03-11 14:03:13 : Processing row : 325
+ 
+2022-03-11 14:03:13 : Processing row : 326
+ 
+2022-03-11 14:03:13 : Processing row : 327
+ 
+2022-03-11 14:03:13 : Processing row : 328
+ 
+2022-03-11 14:03:13 : Processing row : 329
+ 
+2022-03-11 14:03:13 : Processing row : 330
+ 
+2022-03-11 14:03:13 : Processing row : 331
+ 
+2022-03-11 14:03:13 : Processing row : 332
+ 
+2022-03-11 14:03:13 : Processing row : 333
+ 
+2022-03-11 14:03:13 : Processing row : 334
+ 
+2022-03-11 14:03:13 : Processing row : 335
+ 
+2022-03-11 14:03:13 : Processing row : 336
+ 
+2022-03-11 14:03:13 : Processing row : 337
+ 
+2022-03-11 14:03:13 : Processing row : 338
+ 
+2022-03-11 14:03:13 : Processing row : 339
+ 
+2022-03-11 14:03:13 : Processing row : 340
+ 
+2022-03-11 14:03:13 : Processing row : 341
+ 
+2022-03-11 14:03:13 : Processing row : 342
+ 
+2022-03-11 14:03:13 : Processing row : 343
+ 
+2022-03-11 14:03:13 : Processing row : 344
+ 
+2022-03-11 14:03:13 : Processing row : 345
+ 
+2022-03-11 14:03:13 : Processing row : 346
+ 
+2022-03-11 14:03:13 : Processing row : 347
+ 
+2022-03-11 14:03:13 : Processing row : 348
+ 
+2022-03-11 14:03:13 : Processing row : 349
+ 
+2022-03-11 14:03:13 : Processing row : 350
+ 
+2022-03-11 14:03:13 : Processing row : 351
+ 
+2022-03-11 14:03:13 : Processing row : 352
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D352
+ 
+2022-03-11 14:03:13 : Processing row : 353
+ 
+2022-03-11 14:03:13 : Processing row : 354
+ 
+2022-03-11 14:03:13 : Processing row : 355
+ 
+2022-03-11 14:03:13 : Processing row : 356
+ 
+2022-03-11 14:03:13 : Processing row : 357
+ 
+2022-03-11 14:03:13 : Processing row : 358
+ 
+2022-03-11 14:03:13 : Processing row : 359
+ 
+2022-03-11 14:03:13 : Processing row : 360
+ 
+2022-03-11 14:03:13 : Processing row : 361
+ 
+2022-03-11 14:03:13 : Processing row : 362
+ 
+2022-03-11 14:03:13 : Processing row : 363
+ 
+2022-03-11 14:03:13 : Processing row : 364
+ 
+2022-03-11 14:03:13 : Processing row : 365
+ 
+2022-03-11 14:03:13 : Processing row : 366
+ 
+2022-03-11 14:03:13 : Processing row : 367
+ 
+2022-03-11 14:03:13 : Processing row : 368
+ 
+2022-03-11 14:03:13 : Processing row : 369
+ 
+2022-03-11 14:03:13 : Processing row : 370
+ 
+2022-03-11 14:03:13 : Processing row : 371
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D371
+ 
+2022-03-11 14:03:13 : Processing row : 372
+ 
+2022-03-11 14:03:13 : Processing row : 373
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D373
+ 
+2022-03-11 14:03:13 : Processing row : 374
+ 
+2022-03-11 14:03:13 : Processing row : 375
+ 
+2022-03-11 14:03:13 : Processing row : 376
+ 
+2022-03-11 14:03:13 : Processing row : 377
+ 
+2022-03-11 14:03:13 : Processing row : 378
+ 
+2022-03-11 14:03:13 : Processing row : 379
+ 
+2022-03-11 14:03:13 : Processing row : 380
+ 
+2022-03-11 14:03:13 : Processing row : 381
+ 
+2022-03-11 14:03:13 : Processing row : 382
+ 
+2022-03-11 14:03:13 : Processing row : 383
+ 
+2022-03-11 14:03:13 : Processing row : 384
+ 
+2022-03-11 14:03:13 : Processing row : 385
+ 
+2022-03-11 14:03:13 : Processing row : 386
+ 
+2022-03-11 14:03:13 : Processing row : 387
+ 
+2022-03-11 14:03:13 : Processing row : 388
+ 
+2022-03-11 14:03:13 : Processing row : 389
+ 
+2022-03-11 14:03:13 : Processing row : 390
+ 
+2022-03-11 14:03:13 : Processing row : 391
+ 
+2022-03-11 14:03:13 : Processing row : 392
+ 
+2022-03-11 14:03:13 : Processing row : 393
+ 
+2022-03-11 14:03:13 : Processing row : 394
+ 
+2022-03-11 14:03:13 : Processing row : 395
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D395
+ 
+2022-03-11 14:03:13 : Processing row : 396
+ 
+2022-03-11 14:03:13 : Processing row : 397
+ 
+2022-03-11 14:03:13 : Processing row : 398
+ 
+2022-03-11 14:03:13 : Processing row : 399
+ 
+2022-03-11 14:03:13 : Processing row : 400
+ 
+2022-03-11 14:03:13 : Processing row : 401
+ 
+2022-03-11 14:03:13 : Processing row : 402
+ 
+2022-03-11 14:03:13 : Processing row : 403
+ 
+2022-03-11 14:03:13 : Processing row : 404
+ 
+2022-03-11 14:03:13 : Processing row : 405
+ 
+2022-03-11 14:03:13 : Processing row : 406
+ 
+2022-03-11 14:03:13 : Processing row : 407
+ 
+2022-03-11 14:03:13 : Processing row : 408
+ 
+2022-03-11 14:03:13 : Processing row : 409
+ 
+2022-03-11 14:03:13 : Processing row : 410
+ 
+2022-03-11 14:03:13 : Processing row : 411
+ 
+2022-03-11 14:03:13 : Processing row : 412
+ 
+2022-03-11 14:03:13 : Processing row : 413
+ 
+2022-03-11 14:03:13 : Processing row : 414
+ 
+2022-03-11 14:03:13 : Processing row : 415
+ 
+2022-03-11 14:03:13 : Processing row : 416
+ 
+2022-03-11 14:03:13 : Processing row : 417
+ 
+2022-03-11 14:03:13 : Processing row : 418
+ 
+2022-03-11 14:03:13 : Processing row : 419
+ 
+2022-03-11 14:03:13 : Processing row : 420
+ 
+2022-03-11 14:03:13 : Processing row : 421
+ 
+2022-03-11 14:03:13 : Processing row : 422
+ 
+2022-03-11 14:03:13 : Processing row : 423
+ 
+2022-03-11 14:03:13 : Processing row : 424
+ 
+2022-03-11 14:03:13 : Processing row : 425
+ 
+2022-03-11 14:03:13 : Processing row : 426
+ 
+2022-03-11 14:03:13 : Processing row : 427
+ 
+2022-03-11 14:03:13 : Processing row : 428
+ 
+2022-03-11 14:03:13 : Processing row : 429
+ 
+2022-03-11 14:03:13 : Processing row : 430
+ 
+2022-03-11 14:03:13 : Processing row : 431
+ 
+2022-03-11 14:03:13 : Processing row : 432
+ 
+2022-03-11 14:03:13 : Processing row : 433
+ 
+2022-03-11 14:03:13 : Processing row : 434
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D434
+ 
+2022-03-11 14:03:13 : Processing row : 435
+ 
+2022-03-11 14:03:13 : Processing row : 436
+ 
+2022-03-11 14:03:13 : Processing row : 437
+ 
+2022-03-11 14:03:13 : Processing row : 438
+ 
+2022-03-11 14:03:13 : Processing row : 439
+ 
+2022-03-11 14:03:13 : Processing row : 440
+ 
+2022-03-11 14:03:13 : Processing row : 441
+ 
+2022-03-11 14:03:13 : Processing row : 442
+ 
+2022-03-11 14:03:13 : Processing row : 443
+ 
+2022-03-11 14:03:13 : Processing row : 444
+ 
+2022-03-11 14:03:13 : Processing row : 445
+ 
+2022-03-11 14:03:13 : Processing row : 446
+ 
+2022-03-11 14:03:13 : Processing row : 447
+ 
+2022-03-11 14:03:13 : Processing row : 448
+ 
+2022-03-11 14:03:13 : Processing row : 449
+ 
+2022-03-11 14:03:13 : Processing row : 450
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D450
+ 
+2022-03-11 14:03:13 : Processing row : 451
+ 
+2022-03-11 14:03:13 : Processing row : 452
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D452
+ 
+2022-03-11 14:03:13 : Processing row : 453
+ 
+2022-03-11 14:03:13 : Processing row : 454
+ 
+2022-03-11 14:03:13 : Processing row : 455
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D455
+ 
+2022-03-11 14:03:13 : Processing row : 456
+ 
+2022-03-11 14:03:13 : Processing row : 457
+ 
+2022-03-11 14:03:13 : Processing row : 458
+ 
+2022-03-11 14:03:13 : Processing row : 459
+ 
+2022-03-11 14:03:13 : Processing row : 460
+ 
+2022-03-11 14:03:13 : Processing row : 461
+ 
+2022-03-11 14:03:13 : Processing row : 462
+ 
+2022-03-11 14:03:13 : Processing row : 463
+ 
+2022-03-11 14:03:13 : Processing row : 464
+ 
+2022-03-11 14:03:13 : Processing row : 465
+ 
+2022-03-11 14:03:13 : Processing row : 466
+ 
+2022-03-11 14:03:13 : Processing row : 467
+ 
+2022-03-11 14:03:13 : Processing row : 468
+ 
+2022-03-11 14:03:13 : Processing row : 469
+ 
+2022-03-11 14:03:13 : Processing row : 470
+ 
+2022-03-11 14:03:13 : Processing row : 471
+ 
+2022-03-11 14:03:13 : Processing row : 472
+ 
+2022-03-11 14:03:13 : Processing row : 473
+ 
+2022-03-11 14:03:13 : Processing row : 474
+ 
+2022-03-11 14:03:13 : Processing row : 475
+ 
+2022-03-11 14:03:13 : Processing row : 476
+ 
+2022-03-11 14:03:13 : Processing row : 477
+ 
+2022-03-11 14:03:13 : Processing row : 478
+ 
+2022-03-11 14:03:13 : Processing row : 479
+ 
+2022-03-11 14:03:13 : Processing row : 480
+ 
+2022-03-11 14:03:13 : Processing row : 481
+ 
+2022-03-11 14:03:13 : Processing row : 482
+ 
+2022-03-11 14:03:13 : Processing row : 483
+2022-03-11 14:03:13**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D483
+ 
+2022-03-11 14:03:13 : Processing row : 484
+ 
+2022-03-11 14:03:13 : Processing row : 485
+ 
+2022-03-11 14:03:13 : Processing row : 486
+ 
+2022-03-11 14:03:13 : Processing row : 487
+ 
+2022-03-11 14:03:13 : Processing row : 488
+ 
+2022-03-11 14:03:13 : Processing row : 489
+ 
+2022-03-11 14:03:13 : Processing row : 490
+ 
+2022-03-11 14:03:13 : Processing row : 491
+ 
+2022-03-11 14:03:13 : Processing row : 492
+ 
+2022-03-11 14:03:13 : Processing row : 493
+ 
+2022-03-11 14:03:13 : Processing row : 494
+ 
+2022-03-11 14:03:13 : Processing row : 495
+ 
+2022-03-11 14:03:13 : Processing row : 496
+ 
+2022-03-11 14:03:13 : Processing row : 497
+ 
+2022-03-11 14:03:13 : Processing row : 498
+ 
+2022-03-11 14:03:13 : Processing row : 499
+ 
+2022-03-11 14:03:13 : Processing row : 500
+ 
+2022-03-11 14:03:13 : Processing row : 501
+ 
+2022-03-11 14:03:13 : Processing row : 502
+ 
+2022-03-11 14:03:13 : Processing row : 503
+ 
+2022-03-11 14:03:13 : Processing row : 504
+ 
+2022-03-11 14:03:13 : Processing row : 505
+ 
+2022-03-11 14:03:13 : Processing row : 506
+ 
+2022-03-11 14:03:14 : Processing row : 507
+ 
+2022-03-11 14:03:14 : Processing row : 508
+ 
+2022-03-11 14:03:14 : Processing row : 509
+ 
+2022-03-11 14:03:14 : Processing row : 510
+ 
+2022-03-11 14:03:14 : Processing row : 511
+ 
+2022-03-11 14:03:14 : Processing row : 512
+ 
+2022-03-11 14:03:14 : Processing row : 513
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D513
+ 
+2022-03-11 14:03:14 : Processing row : 514
+ 
+2022-03-11 14:03:14 : Processing row : 515
+ 
+2022-03-11 14:03:14 : Processing row : 516
+ 
+2022-03-11 14:03:14 : Processing row : 517
+ 
+2022-03-11 14:03:14 : Processing row : 518
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D518
+ 
+2022-03-11 14:03:14 : Processing row : 519
+ 
+2022-03-11 14:03:14 : Processing row : 520
+ 
+2022-03-11 14:03:14 : Processing row : 521
+ 
+2022-03-11 14:03:14 : Processing row : 522
+ 
+2022-03-11 14:03:14 : Processing row : 523
+ 
+2022-03-11 14:03:14 : Processing row : 524
+ 
+2022-03-11 14:03:14 : Processing row : 525
+ 
+2022-03-11 14:03:14 : Processing row : 526
+ 
+2022-03-11 14:03:14 : Processing row : 527
+ 
+2022-03-11 14:03:14 : Processing row : 528
+ 
+2022-03-11 14:03:14 : Processing row : 529
+ 
+2022-03-11 14:03:14 : Processing row : 530
+ 
+2022-03-11 14:03:14 : Processing row : 531
+ 
+2022-03-11 14:03:14 : Processing row : 532
+ 
+2022-03-11 14:03:14 : Processing row : 533
+ 
+2022-03-11 14:03:14 : Processing row : 534
+ 
+2022-03-11 14:03:14 : Processing row : 535
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D535
+ 
+2022-03-11 14:03:14 : Processing row : 536
+ 
+2022-03-11 14:03:14 : Processing row : 537
+ 
+2022-03-11 14:03:14 : Processing row : 538
+ 
+2022-03-11 14:03:14 : Processing row : 539
+ 
+2022-03-11 14:03:14 : Processing row : 540
+ 
+2022-03-11 14:03:14 : Processing row : 541
+ 
+2022-03-11 14:03:14 : Processing row : 542
+ 
+2022-03-11 14:03:14 : Processing row : 543
+ 
+2022-03-11 14:03:14 : Processing row : 544
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D544
+ 
+2022-03-11 14:03:14 : Processing row : 545
+ 
+2022-03-11 14:03:14 : Processing row : 546
+ 
+2022-03-11 14:03:14 : Processing row : 547
+ 
+2022-03-11 14:03:14 : Processing row : 548
+ 
+2022-03-11 14:03:14 : Processing row : 549
+ 
+2022-03-11 14:03:14 : Processing row : 550
+ 
+2022-03-11 14:03:14 : Processing row : 551
+ 
+2022-03-11 14:03:14 : Processing row : 552
+ 
+2022-03-11 14:03:14 : Processing row : 553
+ 
+2022-03-11 14:03:14 : Processing row : 554
+ 
+2022-03-11 14:03:14 : Processing row : 555
+ 
+2022-03-11 14:03:14 : Processing row : 556
+ 
+2022-03-11 14:03:14 : Processing row : 557
+ 
+2022-03-11 14:03:14 : Processing row : 558
+ 
+2022-03-11 14:03:14 : Processing row : 559
+ 
+2022-03-11 14:03:14 : Processing row : 560
+ 
+2022-03-11 14:03:14 : Processing row : 561
+ 
+2022-03-11 14:03:14 : Processing row : 562
+ 
+2022-03-11 14:03:14 : Processing row : 563
+ 
+2022-03-11 14:03:14 : Processing row : 564
+ 
+2022-03-11 14:03:14 : Processing row : 565
+ 
+2022-03-11 14:03:14 : Processing row : 566
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D566
+ 
+2022-03-11 14:03:14 : Processing row : 567
+ 
+2022-03-11 14:03:14 : Processing row : 568
+ 
+2022-03-11 14:03:14 : Processing row : 569
+ 
+2022-03-11 14:03:14 : Processing row : 570
+ 
+2022-03-11 14:03:14 : Processing row : 571
+ 
+2022-03-11 14:03:14 : Processing row : 572
+ 
+2022-03-11 14:03:14 : Processing row : 573
+ 
+2022-03-11 14:03:14 : Processing row : 574
+ 
+2022-03-11 14:03:14 : Processing row : 575
+ 
+2022-03-11 14:03:14 : Processing row : 576
+ 
+2022-03-11 14:03:14 : Processing row : 577
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D577
+ 
+2022-03-11 14:03:14 : Processing row : 578
+ 
+2022-03-11 14:03:14 : Processing row : 579
+ 
+2022-03-11 14:03:14 : Processing row : 580
+ 
+2022-03-11 14:03:14 : Processing row : 581
+ 
+2022-03-11 14:03:14 : Processing row : 582
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D582
+ 
+2022-03-11 14:03:14 : Processing row : 583
+ 
+2022-03-11 14:03:14 : Processing row : 584
+ 
+2022-03-11 14:03:14 : Processing row : 585
+ 
+2022-03-11 14:03:14 : Processing row : 586
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D586
+ 
+2022-03-11 14:03:14 : Processing row : 587
+ 
+2022-03-11 14:03:14 : Processing row : 588
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D588
+ 
+2022-03-11 14:03:14 : Processing row : 589
+ 
+2022-03-11 14:03:14 : Processing row : 590
+ 
+2022-03-11 14:03:14 : Processing row : 591
+ 
+2022-03-11 14:03:14 : Processing row : 592
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D592
+ 
+2022-03-11 14:03:14 : Processing row : 593
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D593
+ 
+2022-03-11 14:03:14 : Processing row : 594
+ 
+2022-03-11 14:03:14 : Processing row : 595
+ 
+2022-03-11 14:03:14 : Processing row : 596
+ 
+2022-03-11 14:03:14 : Processing row : 597
+ 
+2022-03-11 14:03:14 : Processing row : 598
+ 
+2022-03-11 14:03:14 : Processing row : 599
+ 
+2022-03-11 14:03:14 : Processing row : 600
+ 
+2022-03-11 14:03:14 : Processing row : 601
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D601
+ 
+2022-03-11 14:03:14 : Processing row : 602
+ 
+2022-03-11 14:03:14 : Processing row : 603
+ 
+2022-03-11 14:03:14 : Processing row : 604
+ 
+2022-03-11 14:03:14 : Processing row : 605
+ 
+2022-03-11 14:03:14 : Processing row : 606
+ 
+2022-03-11 14:03:14 : Processing row : 607
+ 
+2022-03-11 14:03:14 : Processing row : 608
+ 
+2022-03-11 14:03:14 : Processing row : 609
+ 
+2022-03-11 14:03:14 : Processing row : 610
+ 
+2022-03-11 14:03:14 : Processing row : 611
+ 
+2022-03-11 14:03:14 : Processing row : 612
+ 
+2022-03-11 14:03:14 : Processing row : 613
+ 
+2022-03-11 14:03:14 : Processing row : 614
+ 
+2022-03-11 14:03:14 : Processing row : 615
+ 
+2022-03-11 14:03:14 : Processing row : 616
+ 
+2022-03-11 14:03:14 : Processing row : 617
+ 
+2022-03-11 14:03:14 : Processing row : 618
+ 
+2022-03-11 14:03:14 : Processing row : 619
+ 
+2022-03-11 14:03:14 : Processing row : 620
+ 
+2022-03-11 14:03:14 : Processing row : 621
+ 
+2022-03-11 14:03:14 : Processing row : 622
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D622
+ 
+2022-03-11 14:03:14 : Processing row : 623
+ 
+2022-03-11 14:03:14 : Processing row : 624
+ 
+2022-03-11 14:03:14 : Processing row : 625
+ 
+2022-03-11 14:03:14 : Processing row : 626
+ 
+2022-03-11 14:03:14 : Processing row : 627
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D627
+ 
+2022-03-11 14:03:14 : Processing row : 628
+ 
+2022-03-11 14:03:14 : Processing row : 629
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D629
+ 
+2022-03-11 14:03:14 : Processing row : 630
+ 
+2022-03-11 14:03:14 : Processing row : 631
+ 
+2022-03-11 14:03:14 : Processing row : 632
+ 
+2022-03-11 14:03:14 : Processing row : 633
+ 
+2022-03-11 14:03:14 : Processing row : 634
+ 
+2022-03-11 14:03:14 : Processing row : 635
+ 
+2022-03-11 14:03:14 : Processing row : 636
+ 
+2022-03-11 14:03:14 : Processing row : 637
+ 
+2022-03-11 14:03:14 : Processing row : 638
+ 
+2022-03-11 14:03:14 : Processing row : 639
+ 
+2022-03-11 14:03:14 : Processing row : 640
+ 
+2022-03-11 14:03:14 : Processing row : 641
+ 
+2022-03-11 14:03:14 : Processing row : 642
+ 
+2022-03-11 14:03:14 : Processing row : 643
+ 
+2022-03-11 14:03:14 : Processing row : 644
+ 
+2022-03-11 14:03:14 : Processing row : 645
+ 
+2022-03-11 14:03:14 : Processing row : 646
+ 
+2022-03-11 14:03:14 : Processing row : 647
+ 
+2022-03-11 14:03:14 : Processing row : 648
+ 
+2022-03-11 14:03:14 : Processing row : 649
+ 
+2022-03-11 14:03:14 : Processing row : 650
+ 
+2022-03-11 14:03:14 : Processing row : 651
+ 
+2022-03-11 14:03:14 : Processing row : 652
+ 
+2022-03-11 14:03:14 : Processing row : 653
+ 
+2022-03-11 14:03:14 : Processing row : 654
+ 
+2022-03-11 14:03:14 : Processing row : 655
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D655
+ 
+2022-03-11 14:03:14 : Processing row : 656
+ 
+2022-03-11 14:03:14 : Processing row : 657
+ 
+2022-03-11 14:03:14 : Processing row : 658
+ 
+2022-03-11 14:03:14 : Processing row : 659
+ 
+2022-03-11 14:03:14 : Processing row : 660
+ 
+2022-03-11 14:03:14 : Processing row : 661
+ 
+2022-03-11 14:03:14 : Processing row : 662
+ 
+2022-03-11 14:03:14 : Processing row : 663
+ 
+2022-03-11 14:03:14 : Processing row : 664
+ 
+2022-03-11 14:03:14 : Processing row : 665
+ 
+2022-03-11 14:03:14 : Processing row : 666
+ 
+2022-03-11 14:03:14 : Processing row : 667
+ 
+2022-03-11 14:03:14 : Processing row : 668
+ 
+2022-03-11 14:03:14 : Processing row : 669
+ 
+2022-03-11 14:03:14 : Processing row : 670
+ 
+2022-03-11 14:03:14 : Processing row : 671
+ 
+2022-03-11 14:03:14 : Processing row : 672
+ 
+2022-03-11 14:03:14 : Processing row : 673
+ 
+2022-03-11 14:03:14 : Processing row : 674
+ 
+2022-03-11 14:03:14 : Processing row : 675
+ 
+2022-03-11 14:03:14 : Processing row : 676
+ 
+2022-03-11 14:03:14 : Processing row : 677
+ 
+2022-03-11 14:03:14 : Processing row : 678
+ 
+2022-03-11 14:03:14 : Processing row : 679
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D679
+ 
+2022-03-11 14:03:14 : Processing row : 680
+ 
+2022-03-11 14:03:14 : Processing row : 681
+ 
+2022-03-11 14:03:14 : Processing row : 682
+ 
+2022-03-11 14:03:14 : Processing row : 683
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D683
+ 
+2022-03-11 14:03:14 : Processing row : 684
+ 
+2022-03-11 14:03:14 : Processing row : 685
+ 
+2022-03-11 14:03:14 : Processing row : 686
+ 
+2022-03-11 14:03:14 : Processing row : 687
+ 
+2022-03-11 14:03:14 : Processing row : 688
+ 
+2022-03-11 14:03:14 : Processing row : 689
+ 
+2022-03-11 14:03:14 : Processing row : 690
+ 
+2022-03-11 14:03:14 : Processing row : 691
+ 
+2022-03-11 14:03:14 : Processing row : 692
+ 
+2022-03-11 14:03:14 : Processing row : 693
+ 
+2022-03-11 14:03:14 : Processing row : 694
+ 
+2022-03-11 14:03:14 : Processing row : 695
+ 
+2022-03-11 14:03:14 : Processing row : 696
+ 
+2022-03-11 14:03:14 : Processing row : 697
+ 
+2022-03-11 14:03:14 : Processing row : 698
+ 
+2022-03-11 14:03:14 : Processing row : 699
+ 
+2022-03-11 14:03:14 : Processing row : 700
+ 
+2022-03-11 14:03:14 : Processing row : 701
+ 
+2022-03-11 14:03:14 : Processing row : 702
+ 
+2022-03-11 14:03:14 : Processing row : 703
+ 
+2022-03-11 14:03:14 : Processing row : 704
+ 
+2022-03-11 14:03:14 : Processing row : 705
+ 
+2022-03-11 14:03:14 : Processing row : 706
+ 
+2022-03-11 14:03:14 : Processing row : 707
+ 
+2022-03-11 14:03:14 : Processing row : 708
+ 
+2022-03-11 14:03:14 : Processing row : 709
+ 
+2022-03-11 14:03:14 : Processing row : 710
+ 
+2022-03-11 14:03:14 : Processing row : 711
+ 
+2022-03-11 14:03:14 : Processing row : 712
+ 
+2022-03-11 14:03:14 : Processing row : 713
+ 
+2022-03-11 14:03:14 : Processing row : 714
+ 
+2022-03-11 14:03:14 : Processing row : 715
+ 
+2022-03-11 14:03:14 : Processing row : 716
+ 
+2022-03-11 14:03:14 : Processing row : 717
+ 
+2022-03-11 14:03:14 : Processing row : 718
+ 
+2022-03-11 14:03:14 : Processing row : 719
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D719
+ 
+2022-03-11 14:03:14 : Processing row : 720
+ 
+2022-03-11 14:03:14 : Processing row : 721
+ 
+2022-03-11 14:03:14 : Processing row : 722
+ 
+2022-03-11 14:03:14 : Processing row : 723
+ 
+2022-03-11 14:03:14 : Processing row : 724
+ 
+2022-03-11 14:03:14 : Processing row : 725
+ 
+2022-03-11 14:03:14 : Processing row : 726
+ 
+2022-03-11 14:03:14 : Processing row : 727
+ 
+2022-03-11 14:03:14 : Processing row : 728
+ 
+2022-03-11 14:03:14 : Processing row : 729
+ 
+2022-03-11 14:03:14 : Processing row : 730
+ 
+2022-03-11 14:03:14 : Processing row : 731
+ 
+2022-03-11 14:03:14 : Processing row : 732
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D732
+ 
+2022-03-11 14:03:14 : Processing row : 733
+ 
+2022-03-11 14:03:14 : Processing row : 734
+ 
+2022-03-11 14:03:14 : Processing row : 735
+ 
+2022-03-11 14:03:14 : Processing row : 736
+ 
+2022-03-11 14:03:14 : Processing row : 737
+ 
+2022-03-11 14:03:14 : Processing row : 738
+ 
+2022-03-11 14:03:14 : Processing row : 739
+2022-03-11 14:03:14**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D739
+ 
+2022-03-11 14:03:14 : Processing row : 740
+ 
+2022-03-11 14:03:14 : Processing row : 741
+ 
+2022-03-11 14:03:14 : Processing row : 742
+ 
+2022-03-11 14:03:14 : Processing row : 743
+ 
+2022-03-11 14:03:14 : Processing row : 744
+ 
+2022-03-11 14:03:14 : Processing row : 745
+ 
+2022-03-11 14:03:14 : Processing row : 746
+ 
+2022-03-11 14:03:14 : Processing row : 747
+ 
+2022-03-11 14:03:14 : Processing row : 748
+ 
+2022-03-11 14:03:14 : Processing row : 749
+ 
+2022-03-11 14:03:14 : Processing row : 750
+ 
+2022-03-11 14:03:14 : Processing row : 751
+ 
+2022-03-11 14:03:14 : Processing row : 752
+ 
+2022-03-11 14:03:14 : Processing row : 753
+ 
+2022-03-11 14:03:14 : Processing row : 754
+ 
+2022-03-11 14:03:14 : Processing row : 755
+ 
+2022-03-11 14:03:14 : Processing row : 756
+ 
+2022-03-11 14:03:14 : Processing row : 757
+ 
+2022-03-11 14:03:14 : Processing row : 758
+ 
+2022-03-11 14:03:14 : Processing row : 759
+ 
+2022-03-11 14:03:14 : Processing row : 760
+ 
+2022-03-11 14:03:14 : Processing row : 761
+ 
+2022-03-11 14:03:14 : Processing row : 762
+ 
+2022-03-11 14:03:14 : Processing row : 763
+ 
+2022-03-11 14:03:14 : Processing row : 764
+ 
+2022-03-11 14:03:14 : Processing row : 765
+ 
+2022-03-11 14:03:14 : Processing row : 766
+ 
+2022-03-11 14:03:14 : Processing row : 767
+ 
+2022-03-11 14:03:15 : Processing row : 768
+ 
+2022-03-11 14:03:15 : Processing row : 769
+ 
+2022-03-11 14:03:15 : Processing row : 770
+ 
+2022-03-11 14:03:15 : Processing row : 771
+ 
+2022-03-11 14:03:15 : Processing row : 772
+ 
+2022-03-11 14:03:15 : Processing row : 773
+ 
+2022-03-11 14:03:15 : Processing row : 774
+ 
+2022-03-11 14:03:15 : Processing row : 775
+ 
+2022-03-11 14:03:15 : Processing row : 776
+ 
+2022-03-11 14:03:15 : Processing row : 777
+ 
+2022-03-11 14:03:15 : Processing row : 778
+ 
+2022-03-11 14:03:15 : Processing row : 779
+ 
+2022-03-11 14:03:15 : Processing row : 780
+ 
+2022-03-11 14:03:15 : Processing row : 781
+ 
+2022-03-11 14:03:15 : Processing row : 782
+ 
+2022-03-11 14:03:15 : Processing row : 783
+ 
+2022-03-11 14:03:15 : Processing row : 784
+ 
+2022-03-11 14:03:15 : Processing row : 785
+ 
+2022-03-11 14:03:15 : Processing row : 786
+ 
+2022-03-11 14:03:15 : Processing row : 787
+ 
+2022-03-11 14:03:15 : Processing row : 788
+ 
+2022-03-11 14:03:15 : Processing row : 789
+ 
+2022-03-11 14:03:15 : Processing row : 790
+ 
+2022-03-11 14:03:15 : Processing row : 791
+ 
+2022-03-11 14:03:15 : Processing row : 792
+ 
+2022-03-11 14:03:15 : Processing row : 793
+ 
+2022-03-11 14:03:15 : Processing row : 794
+ 
+2022-03-11 14:03:15 : Processing row : 795
+ 
+2022-03-11 14:03:15 : Processing row : 796
+ 
+2022-03-11 14:03:15 : Processing row : 797
+ 
+2022-03-11 14:03:15 : Processing row : 798
+ 
+2022-03-11 14:03:15 : Processing row : 799
+ 
+2022-03-11 14:03:15 : Processing row : 800
+ 
+2022-03-11 14:03:15 : Processing row : 801
+ 
+2022-03-11 14:03:15 : Processing row : 802
+ 
+2022-03-11 14:03:15 : Processing row : 803
+ 
+2022-03-11 14:03:15 : Processing row : 804
+ 
+2022-03-11 14:03:15 : Processing row : 805
+ 
+2022-03-11 14:03:15 : Processing row : 806
+ 
+2022-03-11 14:03:15 : Processing row : 807
+ 
+2022-03-11 14:03:15 : Processing row : 808
+ 
+2022-03-11 14:03:15 : Processing row : 809
+ 
+2022-03-11 14:03:15 : Processing row : 810
+ 
+2022-03-11 14:03:15 : Processing row : 811
+ 
+2022-03-11 14:03:15 : Processing row : 812
+ 
+2022-03-11 14:03:15 : Processing row : 813
+ 
+2022-03-11 14:03:15 : Processing row : 814
+ 
+2022-03-11 14:03:15 : Processing row : 815
+ 
+2022-03-11 14:03:15 : Processing row : 816
+ 
+2022-03-11 14:03:15 : Processing row : 817
+ 
+2022-03-11 14:03:15 : Processing row : 818
+ 
+2022-03-11 14:03:15 : Processing row : 819
+ 
+2022-03-11 14:03:15 : Processing row : 820
+ 
+2022-03-11 14:03:15 : Processing row : 821
+ 
+2022-03-11 14:03:15 : Processing row : 822
+ 
+2022-03-11 14:03:15 : Processing row : 823
+ 
+2022-03-11 14:03:15 : Processing row : 824
+ 
+2022-03-11 14:03:15 : Processing row : 825
+ 
+2022-03-11 14:03:15 : Processing row : 826
+ 
+2022-03-11 14:03:15 : Processing row : 827
+ 
+2022-03-11 14:03:15 : Processing row : 828
+ 
+2022-03-11 14:03:15 : Processing row : 829
+ 
+2022-03-11 14:03:15 : Processing row : 830
+ 
+2022-03-11 14:03:15 : Processing row : 831
+ 
+2022-03-11 14:03:15 : Processing row : 832
+ 
+2022-03-11 14:03:15 : Processing row : 833
+ 
+2022-03-11 14:03:15 : Processing row : 834
+ 
+2022-03-11 14:03:15 : Processing row : 835
+ 
+2022-03-11 14:03:15 : Processing row : 836
+ 
+2022-03-11 14:03:15 : Processing row : 837
+ 
+2022-03-11 14:03:15 : Processing row : 838
+ 
+2022-03-11 14:03:15 : Processing row : 839
+ 
+2022-03-11 14:03:15 : Processing row : 840
+ 
+2022-03-11 14:03:15 : Processing row : 841
+ 
+2022-03-11 14:03:15 : Processing row : 842
+ 
+2022-03-11 14:03:15 : Processing row : 843
+2022-03-11 14:03:15**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D843
+ 
+2022-03-11 14:03:15 : Processing row : 844
+ 
+2022-03-11 14:03:15 : Processing row : 845
+ 
+2022-03-11 14:03:15 : Processing row : 846
+ 
+2022-03-11 14:03:15 : Processing row : 847
+ 
+2022-03-11 14:03:15 : Processing row : 848
+ 
+2022-03-11 14:03:15 : Processing row : 849
+ 
+2022-03-11 14:03:15 : Processing row : 850
+ 
+2022-03-11 14:03:15 : Processing row : 851
+ 
+2022-03-11 14:03:15 : Processing row : 852
+ 
+2022-03-11 14:03:15 : Processing row : 853
+ 
+2022-03-11 14:03:15 : Processing row : 854
+ 
+2022-03-11 14:03:15 : Processing row : 855
+ 
+2022-03-11 14:03:15 : Processing row : 856
+ 
+2022-03-11 14:03:15 : Processing row : 857
+ 
+2022-03-11 14:03:15 : Processing row : 858
+ 
+2022-03-11 14:03:15 : Processing row : 859
+ 
+2022-03-11 14:03:15 : Processing row : 860
+ 
+2022-03-11 14:03:15 : Processing row : 861
+ 
+2022-03-11 14:03:15 : Processing row : 862
+ 
+2022-03-11 14:03:15 : Processing row : 863
+ 
+2022-03-11 14:03:15 : Processing row : 864
+ 
+2022-03-11 14:03:15 : Processing row : 865
+ 
+2022-03-11 14:03:15 : Processing row : 866
+ 
+2022-03-11 14:03:15 : Processing row : 867
+ 
+2022-03-11 14:03:15 : Processing row : 868
+ 
+2022-03-11 14:03:15 : Processing row : 869
+ 
+2022-03-11 14:03:15 : Processing row : 870
+2022-03-11 14:03:15**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D870
+ 
+2022-03-11 14:03:15 : Processing row : 871
+ 
+2022-03-11 14:03:15 : Processing row : 872
+ 
+2022-03-11 14:03:15 : Processing row : 873
+ 
+2022-03-11 14:03:15 : Processing row : 874
+ 
+2022-03-11 14:03:15 : Processing row : 875
+ 
+2022-03-11 14:03:15 : Processing row : 876
+ 
+2022-03-11 14:03:15 : Processing row : 877
+ 
+2022-03-11 14:03:15 : Processing row : 878
+ 
+2022-03-11 14:03:15 : Processing row : 879
+ 
+2022-03-11 14:03:15 : Processing row : 880
+ 
+2022-03-11 14:03:15 : Processing row : 881
+ 
+2022-03-11 14:03:15 : Processing row : 882
+ 
+2022-03-11 14:03:15 : Processing row : 883
+ 
+2022-03-11 14:03:15 : Processing row : 884
+ 
+2022-03-11 14:03:15 : Processing row : 885
+ 
+2022-03-11 14:03:15 : Processing row : 886
+ 
+2022-03-11 14:03:15 : Processing row : 887
+ 
+2022-03-11 14:03:15 : Processing row : 888
+ 
+2022-03-11 14:03:15 : Processing row : 889
+ 
+2022-03-11 14:03:15 : Processing row : 890
+ 
+2022-03-11 14:03:15 : Processing row : 891
+2022-03-11 14:03:15**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D891
+ 
+2022-03-11 14:03:15 : Processing row : 892
+ 
+2022-03-11 14:03:15 : Processing row : 893
+ 
+2022-03-11 14:03:15 : Processing row : 894
+ 
+2022-03-11 14:03:15 : Processing row : 895
+ 
+2022-03-11 14:03:15 : Processing row : 896
+ 
+2022-03-11 14:03:15 : Processing row : 897
+ 
+2022-03-11 14:03:15 : Processing row : 898
+ 
+2022-03-11 14:03:15 : Processing row : 899
+ 
+2022-03-11 14:03:15 : Processing row : 900
+ 
+2022-03-11 14:03:15 : Processing row : 901
+ 
+2022-03-11 14:03:15 : Processing row : 902
+ 
+2022-03-11 14:03:15 : Processing row : 903
+ 
+2022-03-11 14:03:15 : Processing row : 904
+2022-03-11 14:03:15**** WARNING **** Title : LastName : CM : Double quotes replaced by single quotes in cell : [titanic_dataset.xlsx]dataset!D904
+ 
+2022-03-11 14:03:15 : Processing row : 905
+ 
+2022-03-11 14:03:15 : Processing row : 906
+ 
+2022-03-11 14:03:15 : Processing row : 907
+2022-03-11 14:03:15 : Processing completed
