@@ -1,6 +1,8 @@
 # ETransL Technical Documentaiton
 
-## Revisions
+## EtransL Top Level Analysis
+
+### Revisions
 
 | Date    	| Author 	| Doc Ver 	| Comments               	| Applies to v 	|
 |---------	|--------	|---------	|------------------------	|--------------	|
@@ -14,9 +16,11 @@ ___
 <div style="page-break-after: always"></div>
 
 
-## Top Level
+### Flowchart
 
 ![Image](./TECHDOCS/FlowChart-ETransL.PNG "Top Level Flow Diagram")
+
+### Code Walkthrough
 
 ETransL execution is as follows:
 
@@ -53,9 +57,15 @@ ETransL execution is as follows:
   + **Total Rec Len**: This is not referenced by ETransL. It is used to provide an indication of the output.  The value is computed by totalling the **Length** row of all those operations that have **Output** set to '*Y*'.
 
 
-* Execute the Template file. 
+* The Transaction file is processed from the start row specified in the input until the end row is greater than that specified in the input. Processing will terminate when a blank-row is encountered.
+  * For each row of transaction file the Template file is processed starting at column B until a blank column is encountered.
+  * The row being processed as well as Warning or Error conditions as logged to the file.  An unhandled error condition may abort processing.
+  * When all the columns of the template file have been processed the output is written to the Transformation File
 
-    
+* Processing terminates if an Error condition is encountered.
+
+* File handles are closed and the user is alerted that ETransL has terminated.
+
 
 
 
