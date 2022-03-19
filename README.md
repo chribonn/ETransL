@@ -12,7 +12,7 @@ ETransL is an Excel VBA script that applies a template workbook to a transaction
 
 ![Image](./README/ETransL-003.PNG "ETrans")
 
-The ETransL workbook is the control center of the solution. Through it one specifies:
+The ETransL workbook is the control cen of the solution. Through it one specifies:
 
 * The Transaction Workbook & Worksheet
 * The Template Workbook & Worksheet
@@ -40,7 +40,7 @@ The Template specifies how to transform the data in the transaction file.
 
 The Template Start row indicates where the ETransL engine should read the template instructions.
 
-The Template data is layed out in columns. It automatically starts at column B and stops processing as soon as it encounters a blank column.
+The Template data is laid out in columns. It automatically starts at column B and stops processing as soon as it encounters a blank column.
 
 ## The Log file
 
