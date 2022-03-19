@@ -46,3 +46,16 @@ The Template data is laid out in columns. It automatically starts at column B an
 
 ![Image](./README/ETransL-007.PNG "ETrans")
 
+The Log file keep track of all parameters and the progress of all actions taken by the ETransL engine. Two actions are written to the log file:
+
+* *Warnings* - these are assumptions and alerts that could be be different from those intended by the designer. They do not cause ETransL to stop.
+* *Errors* - these are conditions that ETransL couldn't handle. Errors stop processing. 
+
+After each run, the log file should be inspected to make sure that the processing took place as expected. With large data sets an error could impact the processing of the transformtion file by other systems.
+
+## The Transformation file
+
+![Image](./README/ETransL-008.PNG "ETrans")
+
+The Transformation file rapresents the '**T**' of ETL. It is the output of ETransL and rapresents the processed data. 
+
