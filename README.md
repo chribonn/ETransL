@@ -12,10 +12,14 @@ ETransL is an Excel VBA script that applies a template workbook to a transaction
 
 ![Image](./README/ETransL-003.PNG "ETrans")
 
-The ETransL workbook is the control cen of the solution. Through it one specifies:
+The ETransL workbook is the computing engine of the solution. Through it one specifies:
 
 * The Transaction Workbook & Worksheet
 * The Template Workbook & Worksheet
+
+ETransL reads the Template file and applies the instructions in it on the Transaction File.
+
+![Image](./README/ETransL-004.PNG "ETrans")
 
 ## The Transactions
 
@@ -51,11 +55,12 @@ The Log file keep track of all parameters and the progress of all actions taken 
 * *Warnings* - these are assumptions and alerts that could be be different from those intended by the designer. They do not cause ETransL to stop.
 * *Errors* - these are conditions that ETransL couldn't handle. Errors stop processing. 
 
-After each run, the log file should be inspected to make sure that the processing took place as expected. With large data sets an error could impact the processing of the transformtion file by other systems.
+After each run, the log file should be inspected to make sure that the processing took place as expected. With large data sets an error could impact the processing of the transformation file by other systems.
 
 ## The Transformation file
 
 ![Image](./README/ETransL-008.PNG "ETrans")
 
-The Transformation file rapresents the '**T**' of ETL. It is the output of ETransL and rapresents the processed data. 
+The Transformation file is the '**T**' of ETL. It is the output of ETransL and represents the processed data that could be loaded into another system (or consumed as is). 
+
 
